@@ -43,7 +43,6 @@ app.post('/api/notes', (req, res) => {
     res.status(200).json(notes); 
 });
 
-
 app.listen(PORT, () => // activates the port
     console.log(`App listenting at http://localhost:${PORT}`)
 ); 
