@@ -19,7 +19,7 @@ Open your terminal and type `npm install` or `npm i` to install the dependencies
 
 
 ## Screenshot
-![An image of the front page of the application](./assets/11-express-homework-demo-01.png)
+![An image of the front page of the application](./Assets/11-express-homework-demo-01.png)
 
 
 ## Questions? 
